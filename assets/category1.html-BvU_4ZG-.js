@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./app-DW-PEr9R.js";const a={};function c(o,s){return r(),t("div")}const _=e(a,[["render",c],["__file","category1.html.vue"]]),l=JSON.parse('{"path":"/posts/category1.html","title":"","lang":"en-US","frontmatter":{"archive":true},"headers":[],"git":{},"filePathRelative":"posts/category1.md","excerpt":""}');export{_ as comp,l as data};
